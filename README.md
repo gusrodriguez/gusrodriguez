@@ -1,6 +1,6 @@
 ### Gus Rodriguez 👋
 
-I live in Stockholm :sweden:, born and raised in Buenos Aires :argentina:. I'm a frontend developer who worked with many front-end technologies like React, Redux, TypeScript, NodeJs, GraphQL, AngularJs, vanilla Javascript and Responsive Web Design. 
+I live in Stockholm :sweden:, born and raised in Buenos Aires :argentina:. I'm a frontend developer at [0+X](https://0x.se). I worked with many front-end technologies like React, Redux, TypeScript, NodeJs, GraphQL, AngularJs, vanilla Javascript and Responsive Web Design. 
 
 - 🔭 I’m currently working with: Javascript, React, NodeJs, Typescript, React-Native.
 - 🌱 I’m currently learning: React Native and Clojure just for fun.
