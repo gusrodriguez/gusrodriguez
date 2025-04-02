@@ -6,6 +6,6 @@ I live in Stockholm :sweden:, working as a full-stack developer at [0+X](https:/
 - 🌱 I’m currently learning: LLM.
 
 ### Things I enjoy
-- Build cool User Interfaces.
+- Coding.
 - Play Jazz.
 - Retro games.
