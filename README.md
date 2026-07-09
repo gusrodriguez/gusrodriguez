@@ -6,9 +6,9 @@ My core stack is **Node/TypeScript**. I’m currently working with serverless se
 
 Before going serverless I ran the containerized side of the spectrum too: Docker and Kubernetes, plus some GCP.
 
-On the frontend, years of React — and React Native — so "full-stack" isn't a stretch: I own features end to end.
+On the frontend, I bring years of experience with React and React Native. I’m comfortable owning features end to end, from the UI down to the backend and infrastructure.
 
-As tech lead I run the project side too: planning, priorities, and keeping stakeholders, team and the codebase in sync.
+As a tech lead, I also help keep the project moving: setting priorities, planning delivery, and keeping stakeholders, the team, and the codebase aligned.
 
 ### Things I enjoy
 - Jazz and tango guitar.
