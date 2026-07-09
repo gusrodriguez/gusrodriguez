@@ -2,7 +2,7 @@
 
 Full-stack developer and tech lead in Stockholm, consulting at [0+X](https://0x.se) — with focus on the backend and infrastructure side.
 
-My core stack is **TypeScript**. Currently working with serverless services built on Azure Functions, with Cosmos DB and Postgres for storage, Service Bus for messaging, IaC with Pulumi, Workflows with Github Actions and observability with App Insights baked in.
+My core stack is **Node/TypeScript**. I’m currently working with serverless services on Azure Functions, using Cosmos DB and Postgres for storage, Service Bus for messaging, Pulumi for infrastructure as code, GitHub Actions for CI/CD workflows, and Application Insights for observability.
 
 Before going serverless I ran the containerized side of the spectrum too: Docker and Kubernetes, plus some GCP.
 
