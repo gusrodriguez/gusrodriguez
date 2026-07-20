@@ -6,7 +6,7 @@ My core stack is **Node.js/TypeScript**. I’m currently working with serverless
 
 Before going serverless, I worked on the containerized side too: Docker, Kubernetes, and some GCP.
 
-On the frontend, I bring years of experience with React and React Native. I’m comfortable owning features end to end, from the UI down to the backend and infrastructure.
+On the frontend, I bring years of experience with React and React Native. I’m comfortable owning features end to end, from the UI down to the backend and cloud services.
 
 As a tech lead, I also help keep the project moving: setting priorities, planning delivery, and keeping stakeholders, the team, and the codebase aligned.
 
