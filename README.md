@@ -10,6 +10,3 @@ On the frontend, I bring years of experience with React and React Native. I’m 
 
 As a tech lead, I also help keep the project moving: setting priorities, planning delivery, and keeping stakeholders, the team, and the codebase aligned.
 
-### Things I enjoy
-- Jazz and tango guitar.
-- Video games and board games.
